@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "accesso-tenda",
+  "private_key_id": "1714d9717da1b48e9066d416e7c63ff1235155d5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDItJSiwnL9J932\nBMgoygQ2L1t3YXWT+2iZeZsTyipbN9MKtvvqVNgesUKcP6DeCcf/jA3imqbvu+L6\nMJpxFUvBs+VUpoLrknwCMJUtBqFac2T/QGzSU/MQ9f8O+/y5OWGN2XjwlZQewkms\n87V/QJL7agkYII2VwTZFDMW0tvmYk0w9GW5zk+lLsByrBkpRhaj8K0Z0Lb3HAdiv\nGyTGWMyZHu17BkUk042bZXyuzcSkdDTP+tk2SaRW1NbHmPpV7/lVjnoW4EUxCXbF\nRb1F7tWaufJ0QO/AONNZh3ojvmTkQVYa4jPPxgfRw/0Xe6iLgPGM9XDYU8FaOEFI\nOfhP7gEnAgMBAAECggEANJIINLGWCPU+UEhkXTq866xv2s8uSvqZJUoS8pYLjiUL\nJE1VosVibnejqOWJr18Egc0fffFgNH8ULtA4Q9J+K1iBgzCyLh4KWVB8YnTQIq8D\nD1DCsDzI9/JXQoeCZMnA4bTK1sl3KK9fOOwE6DXzyeK2SxmLvGQFYQS9bF5Y9jt3\nzJGxwC4QiTL8bX9gx++jHRHsjn/Q8M2RscfJQz+3pJ28kVkIzjJe0vik0tX9w03A\n7FWNgkwkjbb+22LxSB9T7aVsg0Nf0D2U76L2djxF4YqLtoUU2+Gu/eMLadOxgA2r\nL8FOdF15DQe+S4VnirjE1hdiHXO4ebjyYfQd/mJeUQKBgQDxQ3xmYhPlyXfo0QS3\nJxdNXdE9YSOufvNSxztTIOfxW2Xlr9YWGOkXAXkE2/kxHpfrpeLMCKIDvePRgesq\nT59POM+aZAT7BXYCLzLGdDCoZAjSWP5BCwCmCf0JM9bXb/7D343q+9bV4dKnwQin\nDyeqowF432ezWGKeXAvIeedYQwKBgQDU9ughLx7UICCs0fxZ4SQxnMkGadu/Zaqv\nyq6W/fsWpnt7HcDt0+JlGl03BL9j/Xi4zaejW0O53M2jUQu52QePKh4Ty432sR4p\nE9LdoMHIq+7gj3PJNY3qNSx39pGxP+W0APs/4oVCqZIEqxI7rNeCSRDtT9azOVH7\nKlxrJzznTQKBgAv23sps/rOchBfFlchHZf5uMpwqnwxeO07VlnmO3jG36Ju1VpaN\n8bE0X34AMqFe9QW4mkCoBPDOj+ep27GjdTEGjjUH1L9mC+4bzRbOWENhgpZ710/+\nba/OOwAj0/mnEilAgtcuWf8NTdcH2Zf/RmZN4xrNaWUZcvqLcgIlGXXlAoGAEYtR\nrkIqgQEwj+wwpNrmV2v6J5wa7VabzCWfYnMD92a5r3fRCAa3lOqqGTk75ynfgyH2\nGIARQUOOcVDg7WuSstmeZrUTOep3eJzYd0eiDz0Szc8jk8TkrxG4Wx2l/Pstmjmm\neSnZHpfHnrjVJLNlgacxTMuR/WvQdCeWO4GdA9UCgYEAgsp4pghHOnGUOWsVK6+s\nCKctSdlVv/tQ6OQl55tw4zOoBsuJso5LK/Ov8oMCvW2sOjw+vNCgocGYCc3ms7jL\nPgkAiBeFEBdFBXdmwVIvL4Em41sL0K0YFKbGviDHlhVIq0jiVGrK3UW4jEqkWfh7\n3rwusq72jkiLaB5tkg89HuM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-u5ny6@accesso-tenda.iam.gserviceaccount.com",
+  "client_id": "106841033133560511691",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-u5ny6%40accesso-tenda.iam.gserviceaccount.com"
+}
