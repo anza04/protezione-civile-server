@@ -38,7 +38,13 @@ app.post('/aggiungiBene', async (req, res) =>{
     const res2 = await beniRef.set({
         [req.body.nomeBene]: req.body
     }, {merge:true});
-})
+});
+
+app.get('letturaBeni', async (req, res) =>{
+    const beniRef = dbFirebase.collection("beni").doc("bene");
+    const doc = await beniRef.get();
+    res.status(200).send(doc.data());
+});
 
 // /*  API GENERALI    */
 
