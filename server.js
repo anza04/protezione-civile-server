@@ -40,7 +40,7 @@ app.post('/aggiungiBene', async (req, res) =>{
     }, {merge:true});
 });
 
-app.get('letturaBeni', async (req, res) =>{
+app.get('/letturaBeni', async (req, res) =>{
     const beniRef = dbFirebase.collection("beni").doc("bene");
     const doc = await beniRef.get();
     res.status(200).send(doc.data());
